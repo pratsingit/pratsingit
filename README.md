@@ -5,7 +5,9 @@
   </div>
 
 ### About Me:
-I am a passionate and dedicated third-year student pursuing a B.Tech. in Computer Science Engineering with a specialization in Cybersecurity & Forensics at MIT-WPU, Pune. 
+A Cybersecurity Enthusiast and a Tech Savant, currently in my third year of pursuing a B.Tech. in Computer Science Engineering with a specialization in Cybersecurity & Forensics at MIT-WPU, Pune. 
+I revel in exploring innovative solutions, understanding how they work, and leveraging them to fortify the ever-evolving landscape of technology.
+My pragmatic and diligent approach is marked by a keen eye for attention-to-detail along with intricate problem-solving capabilities. 
 
 ### Languages and Tools:
 
