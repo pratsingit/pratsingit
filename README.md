@@ -16,5 +16,5 @@ My pragmatic and diligent approach is marked by a keen eye for attention-to-deta
 ## Contact me: 
 <div align="left">
 <h5>Contact No.: +91 9168412666</h5>
-<h5>Email.: <a href="pratyushchowdhury27@gmail.com">pratyushchowdhury27@gmail.com </a></h5>
+<h5>Email.: <a href="pratyushchowdhury27@gmail.com" target="_blank">pratyushchowdhury27@gmail.com </a></h5>
 </div>
