@@ -13,6 +13,6 @@ I am a passionate and dedicated third-year student pursuing a B.Tech. in Compute
 
 ## Contact me: 
 <div align="left">
-<h3>Contact No.: +91 9168412666</h3>
-<h3>Email.: pratyushchowdhury27@gmail.com</h3>
+<h5>Contact No.: +91 9168412666</h5>
+<h5>Email.: pratyushchowdhury27@gmail.com</h5>
 </div>
