@@ -15,8 +15,7 @@ A Cybersecurity Enthusiast and a Tech Savant, currently in my fourth year of pur
    </a>
 </p>
 
-## Contact me: 
+## Contact: 
 <div align="left">
-<h5>Contact No.: +91 9168412666</h5>
 <h5>Email: <a href="pratyushchowdhury27@gmail.com" target="_blank">pratyushchowdhury27@gmail.com </a></h5>
 </div>
